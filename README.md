@@ -24,4 +24,10 @@
 Happy coding! 🤖✨
 
 ![Python](https://img.shields.io/badge/Python-3.8-blue)
+### Technologies & Tools
+
+![Python](https://img.shields.io/badge/Python-3.8-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.7-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+
 
