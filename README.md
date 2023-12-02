@@ -7,10 +7,12 @@
 
 🌐 My areas of interest include:
 
-Natural Language Processing
-Computer Vision
-Reinforcement Learning
-Data Science
+-Natural Language Processing
+-Computer Vision
+-Reinforcement Learning
+-Data Science
+-BlockChain
+
 
 🛠️ I love to experiment with code and build intelligent systems. Proficient in Python, TensorFlow, PyTorch, and scikit-learn.
 
