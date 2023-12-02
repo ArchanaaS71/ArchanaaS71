@@ -18,5 +18,7 @@ Data Science
 🌱 Continuous learner and believer in the power of community-driven knowledge. Actively participating in hackathons,Ideathons, coding challenges, and AI meetups.
 
 📫 Let's connect and explore the fascinating world of AI together! Feel free to reach out for discussions, collaborations, or just a friendly chat.
+
 🌐 You can find me on LinkedIn [https://www.linkedin.com/in/archanaa-s-9b7156299/](https://www.linkedin.com/in/archanaa-s-9b7156299/)
+
 Happy coding! 🤖✨
