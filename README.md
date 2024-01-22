@@ -11,6 +11,8 @@
 
 - 🌐 My areas of interest include: **-Natural Language Processing -Computer Vision -Reinforcement Learning -Data Science -BlockChain**
 
+
+Amazon Alexa	![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/archanaa-s-9b7156299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/archanaa-s-9b7156299/" height="30" width="40" /></a>
