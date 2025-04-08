@@ -9,7 +9,7 @@
 
 - 💡 I am fascinated by collaborate on **the limitless possibilities AI and ML bring to the table, from enhancing decision-making to solving complex problems.**
 
-- 🌐 My areas of interest include: **-Natural Language Processing -Computer Vision -Reinforcement Learning -Data Science -BlockChain**
+- 🌐 My areas of interest include: **-Natural Language Processing -Computer Vision -Reinforcement Learning -Data Science **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
